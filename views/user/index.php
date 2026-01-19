@@ -18,7 +18,7 @@ if(isset($_GET['error'])){
 			<figure class="phot_fig"><img src="http://localhost/Portafolio/Public/images/fotoperfil.jpg" alt="Gaviria"/></figure>
 		</div>
 	<div class="colum-2">
-		<p>Soy noble, me gusta establecer acciones sistemáticas y buen trabajo en equipo. vivo con mi madre.Juego  fútbol, ajedrez. Trabaje como ilumino-técnico en empresas que desarrollan eventos corporativos, fiestas y conciertos. actualmente estudio Entrenamiento en Programación en Campoalto. Para el 2023 construiré mi propia empresa. 
+		<p>Soy noble, me gusta establecer acciones sistemáticas y buen trabajo en equipo.Juego  fútbol, ajedrez. Trabaje como ilumino-técnico en empresas que desarrollan eventos corporativos, fiestas y conciertos. actualmente estudio Entrenamiento en Programación en Campoalto. Para el 2027 construiré mi propia empresa. 
 		</p>
 	</div>
 </div>
